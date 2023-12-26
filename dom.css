@@ -4,3 +4,9 @@
 label{
     font-weight: bold;
 }
+sup{
+    color: red;
+}
+#table *,h4{
+    color: blue;
+}
